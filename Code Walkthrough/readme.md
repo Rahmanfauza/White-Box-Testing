@@ -1,0 +1,1 @@
+*Code walkthrough* adalah proses peninjauan kode secara informal yang biasanya dilakukan dalam kelompok. Seorang programmer akan mempresentasikan logika program atau modul yang ditulis kepada rekan satu tim atau reviewer, dan bersama-sama mereka akan mengevaluasi kode tersebut untuk menemukan kesalahan, memperbaiki efisiensi, atau meningkatkan gaya penulisan kode.
