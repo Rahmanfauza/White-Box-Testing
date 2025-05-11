@@ -1,0 +1,2 @@
+### - Basic Path Testing
+*Basic Path Testing* merupakan bagian dari *control flow testing* yang bertujuan untuk memastikan bahwa setiap jalur dasar dalam program telah diuji setidaknya satu kali. Teknik ini menggunakan metrik *cyclomatic complexity* untuk menentukan jumlah jalur independen dalam program. Jalur independen tersebut kemudian diuji satu per satu untuk memastikan cakupan maksimal dari kode yang diuji.
