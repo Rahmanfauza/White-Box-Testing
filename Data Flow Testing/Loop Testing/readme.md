@@ -1,0 +1,2 @@
+### - Loop Testing
+*Loop Testing* adalah teknik yang berfokus pada pengujian struktur perulangan (*loop*) dalam program. Tujuannya adalah untuk memastikan bahwa perulangan dalam kode bekerja dengan benar dalam semua kondisi, seperti: tidak pernah dijalankan (*zero iteration*), dijalankan satu kali, beberapa kali, hingga batas maksimum yang masuk akal. Pengujian ini juga mencoba memeriksa bagaimana program menangani perulangan bersarang (*nested loops*) atau loop bersyarat yang kompleks.
